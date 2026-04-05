@@ -18,5 +18,6 @@ streamlit run app.py
 ## 👥 
 팀장
 -김희건
+
 팀원
 - juya
